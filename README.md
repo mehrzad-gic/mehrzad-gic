@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mehrzad-gic
 - 👀 I’m interested in Backend & FrintEnd Development
 - 🌱 I’m currently learning NodeJs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me => mehrzad20061384@gmail.com
+- 📫 How to reach me  mehrzad20061384@gmail.com
+<!--- 💞️ I’m looking to collaborate on ...
 
 
 <!---
