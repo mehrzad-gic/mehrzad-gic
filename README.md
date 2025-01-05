@@ -1,4 +1,5 @@
-- 👋 Hi, I’m mehrzad
+<h1 align="center">Hello Friend 👋, I'm mehrzad</h1>
+
 - 👀 I’m interested in software engineering , devops and security 
 - 🌱 I’m currently learning linux and devops
 - 📫 How to reach me mehrzad20061384@gmial.com
