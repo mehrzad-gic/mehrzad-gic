@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mehrzad
 - 👀 I’m interested in software engineering , devops and security 
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning linux and devops
 - 📫 How to reach me mehrzad20061384@gmial.com
 - ⚡ Fun fact: linux is better than windows and macOs
 
