@@ -12,7 +12,7 @@ const Mehrzad = {
     language: ["JavaScript", "typeScript","PHP","Go","Python"] // Node.js,         
     myStack: {             
         backEnd: {             
-          frameworks: ["Laravle","Express.js", "fastify", "Nest.js"],                   
+          frameworks: ["Laravel","Nest.js","Express.js", "fastify"],                   
           microServiceTools: ["gRPC", "RabbitMQ", "Kafka"],
           realTimeTools: ["socket.io", "webSocket"],
           DataBases: ["MongoDB", "MySQL", "Redis", "ElasticSearch"],
