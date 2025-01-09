@@ -15,7 +15,7 @@ const Mehrzad = {
           frameworks: ["Laravel","Nest.js","Express.js", "fastify"],                   
           microServiceTools: ["gRPC", "RabbitMQ", "Kafka"],
           realTimeTools: ["socket.io", "webSocket"],
-          DataBases: ["MongoDB", "MySQL", "Redis", "ElasticSearch"],
+          DataBases: ["MySQL","PostgreSql""MongoDB", "Redis", "ElasticSearch"],
           architectures: ["MVC", "clean", "SOLID"],
           API: ["postman", "swagger"],
         },         
