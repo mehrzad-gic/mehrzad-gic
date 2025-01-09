@@ -7,9 +7,8 @@ I am a web Developer and software engineer and interested in devops , security
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const ErfanYousefi = {     
-    pronouns: "He" | "Him",     
-    aboutMe: "I'm Node.js Developer from Botostart.ir"
+const Mehrzad = {     
+    aboutMe: "I am a web Developer and software engineer and interested in devops , security"
     language: ["JavaScript", "typeScript","PHP","Go","Python"] // Node.js,         
     myStack: {             
         backEnd: {             
@@ -26,7 +25,7 @@ const ErfanYousefi = {
         },         
         devOps: ["Docker🐳","git","Linux"],               
    },    
-   currentFocus: "Node.js adn PHP",     
+   currentFocus: "Node.js and PHP",     
    funFact: "linux is better than mac and windows" 
 };
 ```
@@ -41,7 +40,6 @@ const ErfanYousefi = {
   <img alt="RabbitMQ" src="https://img.shields.io/static/v1?style=for-the-badge&message=RabbitMQ&color=FF6600&logo=RabbitMQ&logoColor=FFFFFF&label=" />
   <img alt="Swagger" src="https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=" />
   <img alt="Git flow" src="https://img.shields.io/badge/Git flow%20-%236DB33F.svg?&style=flat-square&logo=git&logoColor=white&color=blue" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=" />
@@ -62,7 +60,7 @@ const ErfanYousefi = {
 
 ## Connect with me
 
-[<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/erfanyosefi)
+[<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/mehrzad0_0)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mehrzad20061384@gmail.com)
 
 
