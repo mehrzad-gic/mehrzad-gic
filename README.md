@@ -18,7 +18,6 @@ const Mehrzad = {
           DataBases: ["MongoDB", "MySQL", "Redis", "ElasticSearch"],
           architectures: ["MVC", "clean", "SOLID"],
           API: ["postman", "swagger"],
-          
         },         
         frontEnd: {             
           frameworks: ["React","Next.js", "Livewire"],                   
