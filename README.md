@@ -25,7 +25,7 @@ const Mehrzad = {
         devOps: ["Docker🐳","git","Linux"],               
    },    
    currentFocus: "Node.js and PHP",     
-   Funfact: "i use arch btw" 
+   funfact: "i use arch btw" 
 };
 ```
 
