@@ -25,7 +25,7 @@ const Mehrzad = {
         devOps: ["Docker🐳","git","Linux"],               
    },    
    currentFocus: "Node.js and PHP",     
-   funFact: "linux is better than mac and windows" 
+   fact: "linux is better than mac and windows" 
 };
 ```
 
