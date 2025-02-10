@@ -9,7 +9,7 @@ I am a web Developer and software engineer
 ```javascript
 const Mehrzad = {     
     aboutMe: "I am a web Developer and software engineer and interested in devops , security"
-    language: ["JavaScript", "typeScript","PHP","Go","Python"] // Node.js,         
+    language: ["JavaScript", "typeScript","PHP","Python"] // Node.js,         
     myStack: {             
         backEnd: {             
           frameworks: ["Laravel","Nest.js","Express.js", "fastify"],                   
