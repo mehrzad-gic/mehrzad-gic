@@ -22,7 +22,7 @@ const Mehrzad = {
         frontEnd: {             
           frameworks: ["React","Next.js", "Livewire"],                   
         },         
-        devOps: ["Docker🐳","git","Linux"],               
+        devOps: ["Docker🐳","git","Linux","Bash"],               
    },    
    currentFocus: "Node.js and PHP",     
    funfact: "i use arch btw" 
