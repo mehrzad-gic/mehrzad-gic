@@ -20,7 +20,7 @@ const Mehrzad = {
           API: ["postman", "swagger"],
         },         
         frontEnd: {             
-          frameworks: ["React","Next.js", "Livewire"],                   
+          frameworks: ["React.ja","Next.js","VueJs","Livewire","Inertia"],                   
         },         
         devOps: ["Docker🐳","git","Linux","Bash"],               
    },    
